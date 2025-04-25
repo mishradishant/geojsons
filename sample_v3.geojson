@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Canada - Toronto" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-106.3469, 56.1303],
+          [-106.3467, 56.1303],
+          [-106.3467, 56.1305],
+          [-106.3469, 56.1305],
+          [-106.3469, 56.1303]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Currency UK" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.4361, 55.3780],
+          [-3.4359, 55.3780],
+          [-3.4359, 55.3782],
+          [-3.4361, 55.3782],
+          [-3.4361, 55.3780]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "E4F-Johannesburg" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [22.9374, -30.5596],
+          [22.9376, -30.5596],
+          [22.9376, -30.5594],
+          [22.9374, -30.5594],
+          [22.9374, -30.5596]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "France" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [2.2136, 46.2275],
+          [2.2138, 46.2275],
+          [2.2138, 46.2277],
+          [2.2136, 46.2277],
+          [2.2136, 46.2275]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gold Coast" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [133.7750, -25.2745],
+          [133.7752, -25.2745],
+          [133.7752, -25.2743],
+          [133.7750, -25.2743],
+          [133.7750, -25.2745]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ireland" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-8.2440, 53.4128],
+          [-8.2438, 53.4128],
+          [-8.2438, 53.4130],
+          [-8.2440, 53.4130],
+          [-8.2440, 53.4128]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Italy" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [12.5673, 41.8718],
+          [12.5675, 41.8718],
+          [12.5675, 41.8720],
+          [12.5673, 41.8720],
+          [12.5673, 41.8718]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mumbai" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [78.9628, 20.5936],
+          [78.9630, 20.5936],
+          [78.9630, 20.5938],
+          [78.9628, 20.5938],
+          [78.9628, 20.5936]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "New Zealand" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [174.8849, -40.9007],
+          [174.8851, -40.9007],
+          [174.8851, -40.9005],
+          [174.8849, -40.9005],
+          [174.8849, -40.9007]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Portugal" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-8.2246, 39.3998],
+          [-8.2244, 39.3998],
+          [-8.2244, 39.4000],
+          [-8.2246, 39.4000],
+          [-8.2246, 39.3998]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Singapore" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [103.8197, 1.3520],
+          [103.8199, 1.3520],
+          [103.8199, 1.3522],
+          [103.8197, 1.3522],
+          [103.8197, 1.3520]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Spain - ES1" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.7493, 40.4636],
+          [-3.7491, 40.4636],
+          [-3.7491, 40.4638],
+          [-3.7493, 40.4638],
+          [-3.7493, 40.4636]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tring" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.4361, 55.3780],
+          [-3.4359, 55.3780],
+          [-3.4359, 55.3782],
+          [-3.4361, 55.3782],
+          [-3.4361, 55.3780]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "UAE" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [53.8477, 23.4240],
+          [53.8479, 23.4240],
+          [53.8479, 23.4242],
+          [53.8477, 23.4242],
+          [53.8477, 23.4240]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "USA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-95.7130, 37.0901],
+          [-95.7128, 37.0901],
+          [-95.7128, 37.0903],
+          [-95.7130, 37.0903],
+          [-95.7130, 37.0901]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Unknown" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-0.0001, -0.0001],
+          [0.0001, -0.0001],
+          [0.0001, 0.0001],
+          [-0.0001, 0.0001],
+          [-0.0001, -0.0001]
+        ]]
+      }
+    }
+  ]
+}
