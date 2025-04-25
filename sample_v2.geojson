@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "name": "Canada - Toronto" }, "geometry": { "type": "Point", "coordinates": [-106.3468, 56.1304] }},
+    { "type": "Feature", "properties": { "name": "Currency UK" }, "geometry": { "type": "Point", "coordinates": [-3.436, 55.3781] }},
+    { "type": "Feature", "properties": { "name": "E4F-Johannesburg" }, "geometry": { "type": "Point", "coordinates": [22.9375, -30.5595] }},
+    { "type": "Feature", "properties": { "name": "France" }, "geometry": { "type": "Point", "coordinates": [2.2137, 46.2276] }},
+    { "type": "Feature", "properties": { "name": "Gold Coast" }, "geometry": { "type": "Point", "coordinates": [133.7751, -25.2744] }},
+    { "type": "Feature", "properties": { "name": "Ireland" }, "geometry": { "type": "Point", "coordinates": [-8.2439, 53.4129] }},
+    { "type": "Feature", "properties": { "name": "Italy" }, "geometry": { "type": "Point", "coordinates": [12.5674, 41.8719] }},
+    { "type": "Feature", "properties": { "name": "Mumbai" }, "geometry": { "type": "Point", "coordinates": [78.9629, 20.5937] }},
+    { "type": "Feature", "properties": { "name": "New Zealand" }, "geometry": { "type": "Point", "coordinates": [174.885, -40.9006] }},
+    { "type": "Feature", "properties": { "name": "Portugal" }, "geometry": { "type": "Point", "coordinates": [-8.2245, 39.3999] }},
+    { "type": "Feature", "properties": { "name": "Singapore" }, "geometry": { "type": "Point", "coordinates": [103.8198, 1.3521] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES1" }, "geometry": { "type": "Point", "coordinates": [-3.7492, 40.4637] }},
+    { "type": "Feature", "properties": { "name": "Tring" }, "geometry": { "type": "Point", "coordinates": [-3.436, 55.3781] }},
+    { "type": "Feature", "properties": { "name": "UAE" }, "geometry": { "type": "Point", "coordinates": [53.8478, 23.4241] }},
+    { "type": "Feature", "properties": { "name": "USA" }, "geometry": { "type": "Point", "coordinates": [-95.7129, 37.0902] }},
+    { "type": "Feature", "properties": { "name": "Unknown" }, "geometry": { "type": "Point", "coordinates": [0.0, 0.0] }}
+  ]
+}
