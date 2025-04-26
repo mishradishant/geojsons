@@ -26,7 +26,6 @@
     { "type": "Feature", "properties": { "name": "Spain - Mallorca" }, "geometry": { "type": "Point", "coordinates": [2.6502, 39.6953] }},
     { "type": "Feature", "properties": { "name": "Tring" }, "geometry": { "type": "Point", "coordinates": [-0.6594, 51.7948] }},
     { "type": "Feature", "properties": { "name": "UAE" }, "geometry": { "type": "Point", "coordinates": [53.8478, 23.4241] }},
-    { "type": "Feature", "properties": { "name": "USA" }, "geometry": { "type": "Point", "coordinates": [-95.7129, 37.0902] }},
-    { "type": "Feature", "properties": { "name": "Unknown" }, "geometry": { "type": "Point", "coordinates": [0.0, 0.0] }}
+    { "type": "Feature", "properties": { "name": "USA" }, "geometry": { "type": "Point", "coordinates": [-95.7129, 37.0902] }}
   ]
 }
