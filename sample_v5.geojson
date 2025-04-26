@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "label": "Canada - Toronto" }, "geometry": { "type": "Point", "coordinates": [-79.3832, 43.6532] }},
+    { "type": "Feature", "properties": { "label": "Currency UK" }, "geometry": { "type": "Point", "coordinates": [-0.1276, 51.5072] }},
+    { "type": "Feature", "properties": { "label": "E4F-Johannesburg" }, "geometry": { "type": "Point", "coordinates": [28.0473, -26.2041] }},
+    { "type": "Feature", "properties": { "label": "France" }, "geometry": { "type": "Point", "coordinates": [2.2137, 46.2276] }},
+    { "type": "Feature", "properties": { "label": "Gold Coast" }, "geometry": { "type": "Point", "coordinates": [153.4, -28.0167] }},
+    { "type": "Feature", "properties": { "label": "Ireland" }, "geometry": { "type": "Point", "coordinates": [-8.2439, 53.4129] }},
+    { "type": "Feature", "properties": { "label": "Italy" }, "geometry": { "type": "Point", "coordinates": [12.5674, 41.8719] }},
+    { "type": "Feature", "properties": { "label": "Manchester CD office" }, "geometry": { "type": "Point", "coordinates": [-2.2426, 53.4808] }},
+    { "type": "Feature", "properties": { "label": "Moorgate HO" }, "geometry": { "type": "Point", "coordinates": [-0.089, 51.5176] }},
+    { "type": "Feature", "properties": { "label": "Mumbai" }, "geometry": { "type": "Point", "coordinates": [72.8777, 19.076] }},
+    { "type": "Feature", "properties": { "label": "New Zealand" }, "geometry": { "type": "Point", "coordinates": [174.885, -40.9006] }},
+    { "type": "Feature", "properties": { "label": "Penzance" }, "geometry": { "type": "Point", "coordinates": [-5.532, 50.1186] }},
+    { "type": "Feature", "properties": { "label": "Portugal" }, "geometry": { "type": "Point", "coordinates": [-8.2245, 39.3999] }},
+    { "type": "Feature", "properties": { "label": "SA - Cape Town" }, "geometry": { "type": "Point", "coordinates": [18.4241, -33.9249] }},
+    { "type": "Feature", "properties": { "label": "Singapore" }, "geometry": { "type": "Point", "coordinates": [103.8198, 1.3521] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES1" }, "geometry": { "type": "Point", "coordinates": [-3.7038, 40.4168] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES2" }, "geometry": { "type": "Point", "coordinates": [-0.375, 39.4699] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES3" }, "geometry": { "type": "Point", "coordinates": [2.15899, 41.38879] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES4" }, "geometry": { "type": "Point", "coordinates": [-1.8677, 37.9833] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES6 Valencia" }, "geometry": { "type": "Point", "coordinates": [-0.375, 39.4699] }},
+    { "type": "Feature", "properties": { "label": "Spain - ES7" }, "geometry": { "type": "Point", "coordinates": [-5.9845, 37.3891] }},
+    { "type": "Feature", "properties": { "label": "Spain - Head Office" }, "geometry": { "type": "Point", "coordinates": [-3.7038, 40.4168] }},
+    { "type": "Feature", "properties": { "label": "Spain - Mallorca" }, "geometry": { "type": "Point", "coordinates": [2.6502, 39.6953] }},
+    { "type": "Feature", "properties": { "label": "Tring" }, "geometry": { "type": "Point", "coordinates": [-0.6594, 51.7948] }},
+    { "type": "Feature", "properties": { "label": "UAE" }, "geometry": { "type": "Point", "coordinates": [53.8478, 23.4241] }},
+    { "type": "Feature", "properties": { "label": "USA" }, "geometry": { "type": "Point", "coordinates": [-95.7129, 37.0902] }},
+    { "type": "Feature", "properties": { "label": "Unknown" }, "geometry": { "type": "Point", "coordinates": [0.0, 0.0] }}
+  ]
+}
