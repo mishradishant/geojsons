@@ -1,357 +1,41 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "properties": { "name": "Canada - Toronto" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-84.3832, 48.6532],
-            [-84.3832, 38.6532],
-            [-74.3832, 38.6532],
-            [-74.3832, 48.6532],
-            [-84.3832, 48.6532]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Currency UK" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-5.1276, 56.5072],
-            [-5.1276, 46.5072],
-            [4.8724, 46.5072],
-            [4.8724, 56.5072],
-            [-5.1276, 56.5072]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "E4F-Johannesburg" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [23.0473, -21.2041],
-            [23.0473, -31.2041],
-            [33.0473, -31.2041],
-            [33.0473, -21.2041],
-            [23.0473, -21.2041]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "France" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-2.7863, 51.2276],
-            [-2.7863, 41.2276],
-            [7.2137, 41.2276],
-            [7.2137, 51.2276],
-            [-2.7863, 51.2276]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Gold Coast" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [148.4, -23.0167],
-            [148.4, -33.0167],
-            [158.4, -33.0167],
-            [158.4, -23.0167],
-            [148.4, -23.0167]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Ireland" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-13.2439, 58.4129],
-            [-13.2439, 48.4129],
-            [-3.2439, 48.4129],
-            [-3.2439, 58.4129],
-            [-13.2439, 58.4129]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Italy" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [7.5674, 46.8719],
-            [7.5674, 36.8719],
-            [17.5674, 36.8719],
-            [17.5674, 46.8719],
-            [7.5674, 46.8719]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Manchester CD office" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-7.2426, 58.4808],
-            [-7.2426, 48.4808],
-            [2.7574, 48.4808],
-            [2.7574, 58.4808],
-            [-7.2426, 58.4808]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Moorgate HO" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-5.089, 56.5176],
-            [-5.089, 46.5176],
-            [4.911, 46.5176],
-            [4.911, 56.5176],
-            [-5.089, 56.5176]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Mumbai" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [67.8777, 24.076],
-            [67.8777, 14.076],
-            [77.8777, 14.076],
-            [77.8777, 24.076],
-            [67.8777, 24.076]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "New Zealand" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [169.885, -35.9006],
-            [169.885, -45.9006],
-            [179.885, -45.9006],
-            [179.885, -35.9006],
-            [169.885, -35.9006]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Penzance" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-10.532, 55.1186],
-            [-10.532, 45.1186],
-            [-0.532, 45.1186],
-            [-0.532, 55.1186],
-            [-10.532, 55.1186]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Portugal" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-13.2245, 44.3999],
-            [-13.2245, 34.3999],
-            [-3.2245, 34.3999],
-            [-3.2245, 44.3999],
-            [-13.2245, 44.3999]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "SA - Cape Town" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [13.4241, -28.9249],
-            [13.4241, -38.9249],
-            [23.4241, -38.9249],
-            [23.4241, -28.9249],
-            [13.4241, -28.9249]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Singapore" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [98.8198, 6.3521],
-            [98.8198, -3.6479],
-            [108.8198, -3.6479],
-            [108.8198, 6.3521],
-            [98.8198, 6.3521]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES1" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-8.7038, 45.4168],
-            [-8.7038, 35.4168],
-            [2.2962, 35.4168],
-            [2.2962, 45.4168],
-            [-8.7038, 45.4168]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES2" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-5.375, 44.4699],
-            [-5.375, 34.4699],
-            [4.625, 34.4699],
-            [4.625, 44.4699],
-            [-5.375, 44.4699]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES3" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-2.84101, 46.38879],
-            [-2.84101, 36.38879],
-            [7.15899, 36.38879],
-            [7.15899, 46.38879],
-            [-2.84101, 46.38879]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES4" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-6.8677, 42.9833],
-            [-6.8677, 32.9833],
-            [3.1323, 32.9833],
-            [3.1323, 42.9833],
-            [-6.8677, 42.9833]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES6 Valencia" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-5.375, 44.4699],
-            [-5.375, 34.4699],
-            [4.625, 34.4699],
-            [4.625, 44.4699],
-            [-5.375, 44.4699]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - ES7" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-10.9845, 42.3891],
-            [-10.9845, 32.3891],
-            [-0.9845, 32.3891],
-            [-0.9845, 42.3891],
-            [-10.9845, 42.3891]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": { "name": "Spain - Head Office" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [-8.7038, 45.4168],
-            [-8.7038, 35.4168],
-            [2.2962, 35.4168],
-            [2.2962, 45.4168],
-            [-8.7038, 45.4168]
-          ]
-        ]
-      }
-    }
+    { "type": "Feature", "properties": { "name": "France" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-2.7863, 51.2276], [-2.7863, 41.2276], [7.2137, 41.2276], [7.2137, 51.2276], [-2.7863, 51.2276]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Ireland" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-13.2439, 58.4129], [-13.2439, 48.4129], [-3.2439, 48.4129], [-3.2439, 58.4129], [-13.2439, 58.4129]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Italy" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [7.5674, 46.8719], [7.5674, 36.8719], [17.5674, 36.8719], [17.5674, 46.8719], [7.5674, 46.8719]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "New Zealand" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [169.885, -35.9006], [169.885, -45.9006], [179.885, -45.9006], [179.885, -35.9006], [169.885, -35.9006]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Portugal" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-13.2245, 44.3999], [-13.2245, 34.3999], [-3.2245, 34.3999], [-3.2245, 44.3999], [-13.2245, 44.3999]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Singapore" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [98.8198, 6.3521], [98.8198, -3.6479], [108.8198, -3.6479], [108.8198, 6.3521], [98.8198, 6.3521]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES1" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-8.7038, 45.4168], [-8.7038, 35.4168], [2.2962, 35.4168], [2.2962, 45.4168], [-8.7038, 45.4168]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES2" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-5.375, 44.4699], [-5.375, 34.4699], [4.625, 34.4699], [4.625, 44.4699], [-5.375, 44.4699]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES3" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-2.84101, 46.38879], [-2.84101, 36.38879], [7.15899, 36.38879], [7.15899, 46.38879], [-2.84101, 46.38879]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES4" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-6.8677, 42.9833], [-6.8677, 32.9833], [3.1323, 32.9833], [3.1323, 42.9833], [-6.8677, 42.9833]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES6 Valencia" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-5.375, 44.4699], [-5.375, 34.4699], [4.625, 34.4699], [4.625, 44.4699], [-5.375, 44.4699]
+    ]] }},
+    { "type": "Feature", "properties": { "name": "Spain - ES7" }, "geometry": { "type": "Polygon", "coordinates": [[
+      [-10.9845, 42.3891], [-10.9845, 32.3891], [-0.9845, 32.3891], [-0.9845, 42.3891], [-10.9845, 42.3891]
+    ]] }}
   ]
 }
